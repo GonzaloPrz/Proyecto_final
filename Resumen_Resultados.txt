@@ -1,0 +1,34 @@
+Resumen resultados time-frequency				
+COMPARACIÓN	  		VENTANA TEMPORAL	BANDA DE FREQUENCIA	    REGIÓN	            	DIRECCIONALIDAD
+L2 vs L1	    		Tardía	                Beta alta	            Temporal derecha	   	Sincr L2 > L1
+	            		Tardía	                Gamma	                    Temporo-frontal derecha     Sincr L2 > L1
+				
+FTR vs BTR			Temprana		Beta alta		    Frontal			Desincr FTR > BTR
+				Tardía			Beta alta                   Frontal			Desincr FTR > BTR
+				Tardía			Beta baja		    Temporal y occipital izq	Desincr FTR > BTR
+				
+(FTR-L1) vs (BTR-L2)		Tardía			Theta			    Occipital derecha		Desincr (BTR-L2) > (FTR-L1)
+				
+(FTR-L1).ABS vs (FTR-L1).CON	Temprana		Beta alta		    Occipital derecha		Desincr (FTR-L1).CON > (FTR-L1).ABS
+				
+(BTR-L2).ABS vs (BTR-L2).CON	Tardía		        Delta		       	    Respuesta dispersa		Desincr (BTR-L2).ABS > (BTR-L2).CON
+				Tardía			Beta alta                   Temporal izquierda		Desincr (BTR-L2).CON > (BTR-L2).ABS
+
+
+Resumen resultados conductuales
+
+Accuracy
+
+Mayor accuracy para tareas de lectura que para tareas de traducción
+Mayor accuracy para tareas presentadas en L1 (lectura en L1 o FTR)
+El análisis bayesiano provee evidencia marginal (BF = 0.238) respecto de la ausencica de un efecto asociado al grado de concretud
+
+Reaction time
+
+L < T
+El análisis frecuentista no muestra un efecto principal del idioma del estímulo, pero el análisis bayesiano provee evidencia
+marginal (BF = 0.269) en favor de la ausencia de un efecto asociado a ese factor.
+Lectura en L1 < Lectura en L2
+BTR < FTR (supera la corrección de Holm, pero no las de Bonferroni y Tukey)
+El análisis frecuentista no muestra un efecto principal del grado de concretud, pero el análisis bayesiano provee evidencia
+marginal (BF = 0.238) en favor de la ausencia de un efecto asociado a ese factor
