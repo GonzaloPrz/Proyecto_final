@@ -1,18 +1,18 @@
 Resumen resultados time-frequency				
-COMPARACIÓN	  								VENTANA TEMPORAL	BANDA DE FREQUENCIA	    REGIÓN	            			DIRECCIONALIDAD
-L2 vs L1	    								Tardía	          Beta alta	              Temporal derecha	   			Sincr L2 > L1
-	            								Tardía	          Gamma	                  Temporo-frontal derecha		Sincr L2 > L1
+COMPARACIÓN	  		VENTANA TEMPORAL	BANDA DE FREQUENCIA	    REGIÓN	            	DIRECCIONALIDAD
+L2 vs L1	    		Tardía	                Beta alta	            Temporal derecha	   	Sincr L2 > L1
+	            		Tardía	                Gamma	                    Temporo-frontal derecha     Sincr L2 > L1
 				
-FTR vs BTR										Temprana					Beta alta								Frontal										Desincr FTR > BTR
-															Tardía						Beta alta								Frontal										Desincr FTR > BTR
-															Tardía						Beta baja								Temporal y occipital izq	Desincr FTR > BTR
+FTR vs BTR			Temprana		Beta alta		    Frontal			Desincr FTR > BTR
+				Tardía			Beta alta                   Frontal			Desincr FTR > BTR
+				Tardía			Beta baja		    Temporal y occipital izq	Desincr FTR > BTR
 				
-(FTR-L1) vs (BTR-L2)					Tardía						Theta										Occipital derecha					Desincr (BTR-L2) > (FTR-L1)
+(FTR-L1) vs (BTR-L2)		Tardía			Theta			    Occipital derecha		Desincr (BTR-L2) > (FTR-L1)
 				
-(FTR-L1).ABS vs (FTR-L1).CON	Temprana					Beta alta								Occipital derecha					Desincr (FTR-L1).CON > (FTR-L1).ABS
+(FTR-L1).ABS vs (FTR-L1).CON	Temprana		Beta alta		    Occipital derecha		Desincr (FTR-L1).CON > (FTR-L1).ABS
 				
-(BTR-L2).ABS vs (BTR-L2).CON	Tardía						Delta										Respuesta dispersa				Desincr (BTR-L2).ABS > (BTR-L2).CON
-															Tardía						Beta alta								Temporal izquierda				Desincr (BTR-L2).CON > (BTR-L2).ABS
+(BTR-L2).ABS vs (BTR-L2).CON	Tardía		        Delta		       	    Respuesta dispersa		Desincr (BTR-L2).ABS > (BTR-L2).CON
+				Tardía			Beta alta                   Temporal izquierda		Desincr (BTR-L2).CON > (BTR-L2).ABS
 
 
 Resumen resultados conductuales
